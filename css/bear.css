@@ -7,7 +7,9 @@ html {
   top: 100px;
   right: 0;
 }
-@media only screen
 
+@media only screen and (min-width: 1196px) {
+  left: 800px
+}
 /* Write your solution here */
 
